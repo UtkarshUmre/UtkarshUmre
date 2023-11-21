@@ -26,7 +26,8 @@
 </br></br>
 
 <p align="left">
-<a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact"](https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact" title="Embracing Open Source: Tips for Getting Started and Making an Impact"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684420158573/e0dd4814-8517-4972-9c3c-644cf0eb774f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DevOps-Project" width="250px" align="left" /></a>
+<a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684420158573/e0dd4814-8517-4972-9c3c-644cf0eb774f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DevOps-Project" width="250px" align="left" />
+
 <a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact" title="Embracing Open Source: Tips for Getting Started and Making an Impact"><strong>Embracing Open Source: Tips for Getting Started and Making an Impact</strong></a>
 <br/> Intrigued by open source? Explore my blog "Embracing Open Source: Tips for Getting Started and Making an Impact." Gain insights, tips, and stories to become an open-source contributor today. 
 </p>
