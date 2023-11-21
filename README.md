@@ -16,36 +16,17 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://utkarshumre.hashnode.dev/)
 
 
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+### Latest Blog Posts
 
-
-
-
-
-<p align="left">
-<a href="https://utkarshumre.hashnode.dev/my-journey-as-a-beginner-how-i-learned-javascript-and-built-my-first-project"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UYsBCu9RP3Y/upload/357ce0e38a2599204af031cd8dd035ef.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="AWS-CodePipeline" width="250px" align="left" /></a>
-<a href="https://utkarshumre.hashnode.dev/my-journey-as-a-beginner-how-i-learned-javascript-and-built-my-first-project"><strong>My Journey as a Beginner: How I Learned JavaScript and Built My First Project</strong></a>
-<br/> Hello everyone! In this blog, I share my journey of learning JavaScript, creating projects, and attending JS Conf India. Please give it a read! 
-</p>
-</br>
-
-</br>
-<p align="left">
-<a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684420158573/e0dd4814-8517-4972-9c3c-644cf0eb774f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webpw=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="AWS-CodePipeline" width="250px" align="left" /></a>
-<a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact"><strong>Embracing Open Source: Tips for Getting Started and Making an Impact</strong></a>
-<br/> Intrigued by open source? Explore my blog "Embracing Open Source: Tips for Getting Started and Making an Impact." Gain insights, tips, and stories to become an open-source contributor today. 
-</p>
+| [![JavaScript Journey](https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UYsBCu9RP3Y/upload/357ce0e38a2599204af031cd8dd035ef.jpeg?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://utkarshumre.hashnode.dev/my-journey-as-a-beginner-how-i-learned-javascript-and-built-my-first-project) | [![Open Source Impact](https://cdn.hashnode.com/res/hashnode/image/upload/v1684420158573/e0dd4814-8517-4972-9c3c-644cf0eb774f.png?w=200&h=120&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact) |
+| --- | --- |
+| [Journey: Learning JavaScript](https://utkarshumre.hashnode.dev/my-journey-as-a-beginner-how-i-learned-javascript-and-built-my-first-project) Learn about my JavaScript journey and creating projects. | [Open Source Impact](https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact) Discover open source contributions and their impact. |
 
 
 
 
 
 
-
-
-<!-- HASHNODE_BLOG:END -->
-</br></br></br>
 
 
 
