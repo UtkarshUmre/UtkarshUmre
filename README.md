@@ -26,8 +26,8 @@
 </br></br>
 
 <p align="left">
-<a href="https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances](https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact" title="Embracing Open Source: Tips for Getting Started and Making an Impact"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684420158573/e0dd4814-8517-4972-9c3c-644cf0eb774f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DevOps-Project" width="250px" align="left" /></a>
-<a href="https://yashpimple.hashnode.dev/scaling-your-containers-with-amazon-ecs-and-ecr-a-practical-tutorial" title="Embracing Open Source: Tips for Getting Started and Making an Impact"><strong>Embracing Open Source: Tips for Getting Started and Making an Impact</strong></a>
+<a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact](https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact" title="Embracing Open Source: Tips for Getting Started and Making an Impact"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684420158573/e0dd4814-8517-4972-9c3c-644cf0eb774f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DevOps-Project" width="250px" align="left" /></a>
+<a href="https://utkarshumre.hashnode.dev/embracing-open-source-tips-for-getting-started-and-making-an-impact" title="Embracing Open Source: Tips for Getting Started and Making an Impact"><strong>Embracing Open Source: Tips for Getting Started and Making an Impact</strong></a>
 <br/> Curious about the world of open source and how you can contribute? Dive into my blog, "Embracing Open Source: Tips for Getting Started and Making an Impact," for a comprehensive guide to navigating this exciting realm. Whether you're a beginner or a seasoned developer, this blog will equip you with valuable insights, practical tips, and inspiring stories that will empower you to join the open-source community and make a meaningful contribution 
 </p>
 
